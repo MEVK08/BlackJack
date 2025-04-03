@@ -1,0 +1,15 @@
+C:\Users\BalaninAn\git-test\BlackJack\BlackJack-NEW\bin\Debug\net8.0\BlackJack-NEW.exe
+C:\Users\BalaninAn\git-test\BlackJack\BlackJack-NEW\bin\Debug\net8.0\BlackJack-NEW.deps.json
+C:\Users\BalaninAn\git-test\BlackJack\BlackJack-NEW\bin\Debug\net8.0\BlackJack-NEW.runtimeconfig.json
+C:\Users\BalaninAn\git-test\BlackJack\BlackJack-NEW\bin\Debug\net8.0\BlackJack-NEW.dll
+C:\Users\BalaninAn\git-test\BlackJack\BlackJack-NEW\bin\Debug\net8.0\BlackJack-NEW.pdb
+C:\Users\BalaninAn\git-test\BlackJack\BlackJack-NEW\obj\Debug\net8.0\BlackJack-NEW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BalaninAn\git-test\BlackJack\BlackJack-NEW\obj\Debug\net8.0\BlackJack-NEW.AssemblyInfoInputs.cache
+C:\Users\BalaninAn\git-test\BlackJack\BlackJack-NEW\obj\Debug\net8.0\BlackJack-NEW.AssemblyInfo.cs
+C:\Users\BalaninAn\git-test\BlackJack\BlackJack-NEW\obj\Debug\net8.0\BlackJack-NEW.csproj.CoreCompileInputs.cache
+C:\Users\BalaninAn\git-test\BlackJack\BlackJack-NEW\obj\Debug\net8.0\BlackJack-NEW.sourcelink.json
+C:\Users\BalaninAn\git-test\BlackJack\BlackJack-NEW\obj\Debug\net8.0\BlackJack-NEW.dll
+C:\Users\BalaninAn\git-test\BlackJack\BlackJack-NEW\obj\Debug\net8.0\refint\BlackJack-NEW.dll
+C:\Users\BalaninAn\git-test\BlackJack\BlackJack-NEW\obj\Debug\net8.0\BlackJack-NEW.pdb
+C:\Users\BalaninAn\git-test\BlackJack\BlackJack-NEW\obj\Debug\net8.0\BlackJack-NEW.genruntimeconfig.cache
+C:\Users\BalaninAn\git-test\BlackJack\BlackJack-NEW\obj\Debug\net8.0\ref\BlackJack-NEW.dll

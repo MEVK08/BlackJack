@@ -46,6 +46,8 @@ namespace BlackJack
 
                 if (!string.IsNullOrEmpty(player1.Name))
                     return player1.Name;
+                PrintMessage("Geben sie einen gültigen Namen ein!!", ConsoleColor.Red);
+                Thread.Sleep(1000);
                 Console.Clear();
             }
         }
@@ -61,6 +63,8 @@ namespace BlackJack
                 {
                     if (setMoney < 10 || setMoney > currentMoney)
                     {
+                        PrintMessage("Geben sie einen gültigen Betrag ein!!", ConsoleColor.Red);
+                        Thread.Sleep(1000);
                         Console.Clear();
                         continue;
                     }

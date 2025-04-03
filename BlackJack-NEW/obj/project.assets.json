@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BalaninAn\\source\\repos\\BlackJack-NEW\\BlackJack-NEW\\BlackJack-NEW.csproj",
+      "projectUniqueName": "C:\\Users\\BalaninAn\\git-test\\BlackJack\\BlackJack-NEW\\BlackJack-NEW.csproj",
       "projectName": "BlackJack-NEW",
-      "projectPath": "C:\\Users\\BalaninAn\\source\\repos\\BlackJack-NEW\\BlackJack-NEW\\BlackJack-NEW.csproj",
+      "projectPath": "C:\\Users\\BalaninAn\\git-test\\BlackJack\\BlackJack-NEW\\BlackJack-NEW.csproj",
       "packagesPath": "C:\\Users\\BalaninAn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BalaninAn\\source\\repos\\BlackJack-NEW\\BlackJack-NEW\\obj\\",
+      "outputPath": "C:\\Users\\BalaninAn\\git-test\\BlackJack\\BlackJack-NEW\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BalaninAn\\AppData\\Roaming\\NuGet\\NuGet.Config",
